@@ -1,0 +1,10 @@
+ Volume in drive C is WINDOWS
+ Volume Serial Number is 56D2-8C7C
+
+ Directory of C:\Users\linkan\Desktop\lksahubetu
+
+10/05/2017  07:21 PM    <DIR>          .
+10/05/2017  07:21 PM    <DIR>          ..
+10/05/2017  07:21 PM                 0 a.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  211,810,398,208 bytes free
